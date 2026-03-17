@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+venv/
+.env
+cyber_incidents.db
+
+# Node
+node_modules/
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
